@@ -1,6 +1,6 @@
 # git-demo
 first git repository
 <br>
-Adesh Yadav
+Adesh Yadav(Sharda)
 <br>
 MCA
